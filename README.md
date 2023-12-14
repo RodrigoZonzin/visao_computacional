@@ -4,9 +4,9 @@ Segmentação e reconhecimento.
 
 ## Prática 4 - Reconhecendo pessoas por SVM
 
-![IA == Visão Computacional?](pratica4/resultado2.png|width=320)
+![IA == Visão Computacional?](pratica4/resultado2.png)
 
-![CV \subseteq IA](pratica4/resultado3.png|width=320)
+![CV $\subseteq$ IA](pratica4/resultado3.png)
 
 ## Prática 3 - Kmeans para tracking de jogadores
 ![Tracking](pratica3/apenas_branco_roxo_azul.png)
